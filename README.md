@@ -10,16 +10,18 @@
 </video>
 
 ## About Me
+
 💻 **Full Stack Developer** | **AI and ML Enthusiast**  
 🌱 **Currently learning**: React+Vite and Next.js  
 🔭 **Working on**: My portfolio website  
 👯 **Looking to collaborate**: On any interesting projects  
 💬 **Ask me about**: Anything tech-related!  
 😄 **Pronouns**: He/Him  
-⚡ **Fun fact**: You would be amazed about how many shows I dont know.  
+⚡ **Fun fact**: You would be amazed by the number of shows I dont know.
 
 ## 🛠️ Tech Stack
-**Languages & Tools**:  
+
+**Languages & Tools**:
 
 [<img align="left" alt="VS Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][github]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][github]
@@ -36,6 +38,7 @@
 <br />
 
 ## 📊 GitHub Stats
+
 <details>
   <summary>Click to expand stats</summary>
   
@@ -45,6 +48,7 @@
 </details>
 
 ## 🤝 Let's Connect
+
 [<img align="left" alt="LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/nicoroy-zwane)
 [<img align="left" alt="Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/n_zwane/)
 [<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/n-zwane)
