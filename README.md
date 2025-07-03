@@ -5,9 +5,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-purple)](https://www.instagram.com/n_zwane/)
 [![Portfolio](https://img.shields.io/badge/🌐-Portfolio_to_be_done-green)]()
 
-<img align="right" alt="Coding Animation" src="https://github.com/n-zwane/n-zwane/blob/main/assets/coding.gif?raw=true" width="400" />
-
 ## About Me
+<img align="right" alt="Coding Animation" src="https://github.com/n-zwane/n-zwane/blob/main/assets/coder1.gif?raw=true" width="250" height="250" />
 
 💻 **Full Stack Developer** | **AI and ML Enthusiast**  
 🌱 **Currently learning**: React+Vite and Next.js  
@@ -16,6 +15,7 @@
 💬 **Ask me about**: Anything tech-related!  
 😄 **Pronouns**: He/Him  
 ⚡ **Fun fact**: You would be amazed by the number of shows I dont know.
+
 
 ## 🛠️ Tech Stack
 
