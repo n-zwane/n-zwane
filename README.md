@@ -5,9 +5,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-purple)](https://www.instagram.com/n_zwane/)
 [![Portfolio](https://img.shields.io/badge/🌐-Portfolio_to_be_done-green)]()
 
-<video align="right" width="400" autoplay loop muted playsinline>
-  <source src="assets/coding.mp4" type="video/mp4">
-</video>
+<img align="right" alt="Coding Animation" src="https://github.com/n-zwane/n-zwane/blob/main/assets/coding.gif?raw=true" width="400" />
 
 ## About Me
 
