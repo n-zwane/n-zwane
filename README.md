@@ -6,7 +6,7 @@
 [![Portfolio](https://img.shields.io/badge/🌐-Portfolio_to_be_done-green)]()
 
 ## About Me
-<img align="right" alt="Coding Animation" src="https://github.com/n-zwane/n-zwane/blob/main/assets/coder1.gif?raw=true" width="250" height="250" />
+<img align="right" alt="Coding Animation" src="https://github.com/n-zwane/n-zwane/blob/main/assets/coder1.gif?raw=true" width="200" height="200" />
 
 💻 **Full Stack Developer** | **AI and ML Enthusiast**  
 🌱 **Currently learning**: React+Vite and Next.js  
