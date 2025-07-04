@@ -52,3 +52,5 @@
 [<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/n-zwane)
 
 <br />
+
+[github]: https://github.com/n-zwane
