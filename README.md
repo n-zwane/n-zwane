@@ -2,7 +2,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/n-zwane?style=social)](https://github.com/n-zwane)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/nicoroy-zwane)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-purple)](https://www.instagram.com/n_zwane/)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-purple)](https://www.instagram.com/zwane_nl?igsh=MWRzdXF3ZHE2eTJnMA==)
 [![Portfolio](https://img.shields.io/badge/🌐-Portfolio_to_be_done-green)]()
 
 ## About Me
@@ -48,9 +48,7 @@
 ## 🤝 Let's Connect
 
 [<img align="left" alt="LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/nicoroy-zwane)
-[<img align="left" alt="Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/n_zwane/)
+[<img align="left" alt="Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/zwane_nl?igsh=MWRzdXF3ZHE2eTJnMA==)
 [<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/n-zwane)
 
 <br />
-
-[github]: https://github.com/n-zwane
