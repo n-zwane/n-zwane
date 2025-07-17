@@ -22,12 +22,12 @@
 My name is Nicoroy Zwane. A problem solver at heart, driven by curiosity and a mission to create impactful digital experiences.
 </p>
 
-💻 **Full Stack Developer** | **AI and ML Enthusiast**  
-🌱 **Currently learning**: React+Vite and Next.js  
-🔭 **Working on**: My portfolio website  
-🤝 **Looking to collaborate**: On any interesting projects  
-💬 **Ask me about**: Anything tech-related!  
-⚡ **Fun fact**: You would be amazed by the number of shows I dont know.
+• **Full Stack Developer** | **AI and ML Enthusiast**  
+• **Currently learning**: React+Vite and Next.js  
+• **Working on**: My portfolio website  
+• **Looking to collaborate**: On any interesting projects  
+• **Ask me about**: Anything tech-related!  
+• **Fun fact**: You would be amazed by the number of shows I dont know.
 
 ## 🛠️ Tech Stack
 
