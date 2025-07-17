@@ -27,7 +27,7 @@ My name is Nicoroy Zwane. A problem solver at heart, driven by curiosity and a m
 • **Working on**: My portfolio website  
 • **Looking to collaborate**: On any interesting projects  
 • **Ask me about**: Anything tech-related!  
-• **Fun fact**: You would be amazed by the number of shows I dont know.
+• **Fun fact**: You would be amazed by the number of shows I do not know.
 
 ## 🛠️ Tech Stack
 
@@ -69,7 +69,7 @@ My name is Nicoroy Zwane. A problem solver at heart, driven by curiosity and a m
 ## 🤝 Let's Connect
 
 <p align="center">
-  Reach out to me on any of the social links above to talk about possible opportunities, mentorship, collaborations and everything in between!
+  Reach out to me on any of the social links below to talk about possible opportunities, mentorship, collaborations and everything in between!
 </p>
 
 <p align="center">
